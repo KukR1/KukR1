@@ -8,3 +8,4 @@ Front-End Developer
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KukR1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KukR1)](https://github.com/KukR1/github-readme-stats)
