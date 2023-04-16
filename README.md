@@ -1,5 +1,4 @@
-# Hi I am Nik👋
--------------------
+# Hi I'm Nik 👋
 
 * 🌍  I'm based in currently in the Netherlands
 * 🖥️  See my portfolio at [portfolio-nik-danilov](http://portfolio-nik-danilov.vercel.app/)
