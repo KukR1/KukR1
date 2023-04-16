@@ -1,7 +1,7 @@
 # Hi I'm Nik 👋
 
-* 🌍  I'm based in currently in the Netherlands
-* 🖥️  See my portfolio at [portfolio-nik-danilov](http://portfolio-nik-danilov.vercel.app/)
+* 🌍  I'm based currently in the Netherlands
+* 🖥️  My portfolio [portfolio-nik-danilov](http://portfolio-nik-danilov.vercel.app/)
 * ✉️  You can contact me at [nikdanilov123@hotmail.com](mailto:nikdanilov123@hotmail.com)
 * 🤝  I'm open to collaborating on interesting projects, mostly with TypeScript and NextJS/ React.
 
