@@ -1,6 +1,4 @@
 # Hi I am Nik👋
-</br>
-
 Front-End Developer
 -------------------
 
