@@ -1,5 +1,4 @@
 # Hi I am Nik👋
-Front-End Developer
 -------------------
 
 * 🌍  I'm based in currently in the Netherlands
