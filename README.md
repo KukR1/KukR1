@@ -26,6 +26,3 @@
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/✪ KukRi#6578" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/KukR1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Light.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mdanilov96/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-<a href="http://www.github.com/KukR1"><img src="https://github-readme-stats.vercel.app/api?username=KukR1&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KukR1's GitHub stats" /></a>
