@@ -1,7 +1,7 @@
 ### Bio
 🖥️  Portfolio: [portfolio-nik-danilov](http://portfolio-nik-danilov.vercel.app/)
 </br>
-🤝  I'm open to collaborating on interesting projects, mostly with TypeScript and Next/ React.
+🤝  I'm open to collaborating on interesting projects, mostly with TypeScript and React/NextJS, Vue.
 </br>
 
 ### Skills
