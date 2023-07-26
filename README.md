@@ -1,5 +1,5 @@
 ### Bio
-🖥️  <a href="https://nik-portfolio.vercel.app/" target="_blank">Portfolio</a>
+🖥️  <a href="https://nik-danilov.vercel.app/" target="_blank">Portfolio</a>
 </br>
 🤝  I'm open to collaborating on interesting projects, mostly with TypeScript and React/NextJS, Vue.
 </br>
